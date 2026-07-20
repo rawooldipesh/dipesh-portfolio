@@ -92,7 +92,7 @@ export const portfolioData = {
       title: 'Healthy Snacks Website',
       date: '07/2024',
       tech: ['React.js', 'CSS', 'JavaScript'],
-      category: 'Frontend',
+      category: 'Full Stack',
       featured: false,
       github: '',
       live: '',
