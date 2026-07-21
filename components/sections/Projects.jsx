@@ -7,7 +7,7 @@ export default function Projects() {
   const [filter, setFilter] = useState('All')
   const [loading, setLoading] = useState(true)
 
-  const categories = ['All', 'Full Stack', 'AI/ML', 'Frontend']
+  const categories = ['All', 'Full Stack', 'AI/ML']
 
   // Fetch projects from our own API route
   useEffect(() => {
